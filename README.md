@@ -319,8 +319,5 @@ C:\Program Files\PaswordCh\Logs\service.log
 Графический клиент службы [PaswordChService](https://github.com/Nikita-Py-js/PaswordChService). Позволяет менять пароли пользователей без командной строки.
 ---
 
-## Лицензия
-
-MIT. См. [LICENSE](../LICENSE).
 
 ---
