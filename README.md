@@ -212,8 +212,6 @@ PaswordChGui.exe
 
 **Named pipe.** GUI работает с той же службой, что и консольный клиент. Команды: `PING`, `CHANGE|user`, `RUN|users`.
 
-Подробнее — [ARCHITECTURE.md](ARCHITECTURE.md).
-
 ---
 
 ## Сборка из исходников
@@ -318,14 +316,7 @@ C:\Program Files\PaswordCh\Logs\service.log
 
 ## Связанные документы
 
-| Документ | Что внутри |
-|---|---|
-| [README службы](../PaswordChService/README.md) | Основной проект и его документация |
-| [Установка службы](../PaswordChService/docs/INSTALL.md) | Как установить сам сервис |
-| [Конфигурация](../PaswordChService/docs/CONFIG.md) | Все параметры `my.ini`, включая `Managers` и `ProtectedUsers` |
-| [Безопасность](../PaswordChService/docs/SECURITY.md) | Роли, шифрование, DPAPI |
-| [Архитектура службы](../PaswordChService/docs/ARCHITECTURE.md) | Named pipe, протокол, компоненты |
-
+Графический клиент службы [PaswordChService](https://github.com/Nikita-Py-js/PaswordChService). Позволяет менять пароли пользователей без командной строки.
 ---
 
 ## Лицензия
